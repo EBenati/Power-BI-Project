@@ -23,7 +23,7 @@ The dataset is about all the felony complaints made by the police in 2024.
 - Power BI
 
 ## Dataset
-- **Source**: https://github.com/EBenati/Datasets/blob/main/companies_layoffs.csv
+- **Source**: https://github.com/EBenati/Datasets/blob/main/seg_publica_curitiba.xlsx
 
 ## Outcomes
 The cleaned dataset is ready for analysis and helps to answer questions such as:
@@ -33,7 +33,7 @@ The cleaned dataset is ready for analysis and helps to answer questions such as:
 - What is the most dangerous district in Curitiba?
 
 
-You can find all the scripts in the [Data_Cleaning_Project.sql](SQL-Project/Data_Cleaning_Project.sql) folder.
+You can find all the scripts in the  folder.
 
 
 ## Contact
