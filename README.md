@@ -7,33 +7,33 @@ The dataset is about all the felony complaints made by the police in 2024.
 
 ## Steps Taken
 1. **Data Cleaning**:
-   - Duplicates, special characters, useless collumns and blanc lines were removed from the dataset.
+   - Removed duplicates, special characters, unnecessary columns, and blank lines.
 
 2. **Standardization**:
-   - Data types were fixed for some collumns.
+   - Fixed incorrect data types for certain columns.
 
 4. **Data Corrections**:
-   - Many incorrect districts names were found and were corrected
-   - Some other datas were from others cities and had to be removed.
+   - Corrected many misspelled district names.
+   - Removed records related to other cities.
       
 5. **Final Steps**:
-   - After cleaning, reparing and organizing dataset, some charts were created to vizualise the results which made easier to analyse the data as a whole.
+   - After cleaning and organizing the dataset, various charts were created to visualize the results, making the analysis easier and more insightful.
 
 ## Technologies Used
-- Power BI
+- MS Power BI
 
 ## Dataset
 - **Source**: https://github.com/EBenati/Datasets/blob/main/seg_publica_curitiba.xlsx
 
 ## Outcomes
 The cleaned dataset is ready for analysis and helps to answer questions such as:
-- What crime was commited the most in the city?
-- In which month most crimes happened?
-- What day of the week crimes happens more frequently?
-- What is the most dangerous district in Curitiba?
+- Which crime was committed the most in Curitiba?
+- In which month did the highest number of crimes occur?
+- On which day of the week do crimes happen most frequently?
+- Which is the most dangerous district in Curitiba?
 
-
-You can find all the scripts in the  folder.
+## Script
+You can find all the scripts in the [https://github.com/EBenati/Power-BI-Project/tree/main] folder.
 
 
 ## Contact
